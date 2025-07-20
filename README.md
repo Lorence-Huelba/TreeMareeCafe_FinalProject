@@ -1,4 +1,4 @@
-# coffee_shop
+# TreeMareeCafe_FinalProject
 
 A new Flutter project.
 
