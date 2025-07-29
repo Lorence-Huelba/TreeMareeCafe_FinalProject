@@ -1,6 +1,7 @@
 Tre Maree Café POS System
 
 📍 About the Project
+
 This project is a Web-Based Point-of-Sale (POS) System made specifically for Tre Maree Café, which has branches in Bauan and Batangas City. Before this system, their sales were done manually using pen, paper, and calculators — which often led to slow service, errors in computation, and hard-to-track sales records.
 
 To improve their workflow, we developed this system to digitize the sales process, speed up transactions, and make it easier for staff to manage orders and receipts.
