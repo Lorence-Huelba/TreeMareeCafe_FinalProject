@@ -28,4 +28,5 @@ Launch – Deployed the system in both branches and trained the staff.
 Post-launch Monitoring – Continued to gather feedback for updates and fixes.
 
 🧪 User Acceptance Testing (UAT)
+
 We tested the system using real-world scenarios to ensure it met all the basic needs of the café. This included placing sample orders, printing receipts, and checking how it handled different edge cases.
