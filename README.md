@@ -7,6 +7,7 @@ This project is a Web-Based Point-of-Sale (POS) System made specifically for Tre
 To improve their workflow, we developed this system to digitize the sales process, speed up transactions, and make it easier for staff to manage orders and receipts.
 
 🔧 What the System Can Do
+
 - Take and record customer orders through a simple web interface
 - Let staff choose item sizes (e.g., Small, Medium, Large)
 - Automatically compute totals and generate digital receipts
@@ -14,9 +15,11 @@ To improve their workflow, we developed this system to digitize the sales proces
 - Work smoothly on both desktop and mobile browsers
 
 💻 Development Approach
+
 We used the Agile method to develop the system. This allowed us to get feedback from the café during development and make improvements quickly. We also tested the system regularly to make sure it was working properly before full deployment.
 
 🛠️ How It Was Built (Main Phases)
+
 Initial Research – We observed the café’s daily operations and talked to the staff to understand their pain points.
 Design – Created mock-ups for the POS layout to make it simple and mobile-friendly.
 Development – Built core features like order input, receipt generation, and cart management.
